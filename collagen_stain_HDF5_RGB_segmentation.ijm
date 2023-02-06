@@ -35,3 +35,5 @@ wait(5);
 run("Convert to Mask");
 wait(5);
 run("Measure");
+
+run("Read and Write Excel", "file=[C:/Users/P70079769/Desktop/output_write.xlsx]")
